@@ -1,0 +1,13 @@
+body {
+    background: white;
+    font-family: impact;
+}
+.header {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.ieft {
+    text-align: left;
+}
